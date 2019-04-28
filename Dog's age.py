@@ -5,4 +5,5 @@ if(a>0):
         print("The dog's age in dog's years is ",age)
     if((a-2)>=2):
         age=((a-2)*4)+21
+        print("Age of the Dog")
         print("The dog's age in dog's years is ",age)
