@@ -1,4 +1,4 @@
-print("Hi")
+print("Hello")
 a=int(input("Input a dog's age in human years : "))
 if(a>0):
     if(a<=2):
