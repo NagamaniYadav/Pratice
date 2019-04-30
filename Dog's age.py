@@ -1,5 +1,6 @@
 print("Hi")
 a=int(input("Input a dog's age in human years : "))
+print(Hi);
 if(a>0):
     if(a<=2):
         age=a*10.5
