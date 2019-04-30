@@ -1,6 +1,7 @@
 a=int(input("Enter a number : "))
 b=a
 s=a*a
+xxxxxxxxx
 print("The square of the given number %d"%s)
 Reverse = 0
 while(s > 0):
